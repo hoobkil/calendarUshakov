@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">calendarUshakov</string>
+    <string name="ok">Ok</string>
+    <string name="timeStart">Дата-время старта задачи: </string>
+    <string name="timeEnd">Дата-время окончания задачи: </string>
+    <string name="dateError">Ошибка! Дата-время начала больше даты-времени конца</string>
+    <string name="start">старт: </string>
+    <string name="end">окончание: </string>
+
+</resources>
